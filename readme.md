@@ -11,10 +11,10 @@ You're the Cactus Cowboy trying to free the kidnapped cacti princess out of the 
 
 6DoF Jump'n'Run / FPS Adventure contraing
 
-*3 different World 
-*9 Levels with increasing difficulity
-*3 Boss fight
-*2 Easteregg level
+* 3 different World 
+* 9 Levels with increasing difficulity
+* 3 Boss fight
+* 2 Easteregg level
 
 Playtime: About 1-2h depending on your skill
 **Warning: No comfort options and I'm certainly not going to make one. I can't really judge how hard this is on your stomache. Rule of thumb: If you can handle Boneworks you can handle this.
