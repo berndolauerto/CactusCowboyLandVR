@@ -1,6 +1,6 @@
 # Cactus Cowboy Land VR 
 
-
+![GitHub Logo](/Splash.png)
 
 Cactus Cowboy Land VR is a Hello World that went a little overboard xD 
 
