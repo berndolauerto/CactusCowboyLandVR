@@ -1,3 +1,7 @@
+# Cactus Cowboy Land VR 
+
+
+
 Cactus Cowboy Land VR is a Hello World that went a little overboard xD 
 
 
@@ -7,39 +11,33 @@ You're the Cactus Cowboy trying to free the kidnapped cacti princess out of the 
 
 6DoF Jump'n'Run / FPS Adventure contraing
 
-3 different World 
-9 Levels with increasing difficulity
-3 Boss fight
-2 Easteregg level
+*3 different World 
+*9 Levels with increasing difficulity
+*3 Boss fight
+*2 Easteregg level
 
 Playtime: About 1-2h depending on your skill
-Warning: No comfort options and I'm certainly not going to make one. I can't really judge how hard this is on your stomache. Rule of thumb: If you can handle Boneworks you can handle this.
+**Warning: No comfort options and I'm certainly not going to make one. I can't really judge how hard this is on your stomache. Rule of thumb: If you can handle Boneworks you can handle this.
 
 You're the Cactus Cowboy trying to free the kidnapped cacti princess out of the hands of the evil Horst Weizenecker and his Robot Army. Loaded with your Revolver and a solid stomach to combat the motion sickness, break off to a great adventure.
 
 
 This is freeware. Assets are either made by myself, public domain or creative commons. So this is my very first VR and Unity game, so please be a wee bit considerate in your reviews xD
 
+**Credits:**
 
 
-
-
-
-
-Credits:
-
-
-Programming and Design
+**Programming and Design
 Me
 
 
-Audio
+**Audio
 From Unity Asset Store:
 Cron - Retro01
 Cron - Modern02
 Cyberleaf - OfGodsAndPhilisophers
 
-From Modarchive
+**From Modarchive**
 Herb - ADHD
 Serpent - Paperihai
 Drozerix - Poppy Flower Girls
@@ -57,11 +55,11 @@ public domain licensing.
 I wish I could make my own tunes ;_;
 
 
-Assets
+**Assets**
 Made myself with Paint3D
 Unity Asset Store
 
-SketchFab Assets
+**SketchFab Assets**
 LowPolySunglasses - LordDigial
 LowPolyCowboyHat - Anthony Yanez
 LoveLowPoly - VARRRG
@@ -73,3 +71,9 @@ Ufo - Yanix
 gramophone - Espen Lindahl
 
 Thank you for CC and public domain licensing.
+
+
+**Disclaimer**
+Cactus Cowboy Land VR is FREEWARE! You should not have paid for this. 
+In case I violated any copyrights, which I did not intend, please talk to me first before you sue me. I'm a poor solo dev and made this game just for fun and for others to have fun. No profit intended. 
+
